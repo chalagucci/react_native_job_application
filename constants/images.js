@@ -1,4 +1,4 @@
-import profile from "../assets/images/blasian.jpg";
+import profile from "../assets/images/model.jpg";
 
 export default {
   profile,
